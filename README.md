@@ -13,6 +13,10 @@ Hi, I am Laurie Ye.👋
 
 LinkedIn - @Laurie Ye
 
-⚡ Fun fact: I drink a cup of  ice coffee almost every day! ![image](https://github.com/laurieye/About-Me/assets/108287333/b457ec03-e8e2-40ac-861b-611efe5c16d0)
+⚡ Fun fact: I drink a cup of  ice coffee almost every day! 
+
+
+
+![image](https://github.com/laurieye/About-Me/assets/108287333/b457ec03-e8e2-40ac-861b-611efe5c16d0)
 
 
